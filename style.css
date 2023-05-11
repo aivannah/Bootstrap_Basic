@@ -1,0 +1,38 @@
+.container{
+    max-width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+h1{
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-size: 45px;
+}
+
+.alert{
+    color: #856404;
+    background-color: #fff3cd;
+    padding: 14px 22px;
+    margin-bottom: 18px;
+    height: 20px;
+}
+
+.btn-success{
+    color: #fff;
+    background-color: #28a745;
+    border: none;
+    height: 40px;
+    width: 100px;
+    border-radius: 3px;
+}
+
+.btn-danger{
+    color: #fff;
+    background-color: #dc3545;
+    border: none;
+    height: 40px;
+    width: 105px;
+    border-radius: 3px;
+}
